@@ -29,7 +29,7 @@ reportlab
 
 1. Sklonuj repozytorium:
 ```bash
-git clone <repository-url>
+git clone https://github.com/akowynia/aideas_scrapper.git
 
 ```
 
